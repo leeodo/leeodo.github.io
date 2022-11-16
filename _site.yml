@@ -10,4 +10,4 @@ navbar:
     - text: "Projects"
       menu:
         - text: "DC Crime Visualization"
-          href: _site/DC-Crime-Viz/index.html
+          href: sites/DC-Crime-Viz/index.html
