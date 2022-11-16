@@ -1,0 +1,10 @@
+---
+title: "About Me"
+---
+
+Hello, There!
+
+
+This website is to show my works on projects and for you to get to know me.
+
+If you are interested in projects I did please click on the **Projects** drop down menu, and go to my projects.
