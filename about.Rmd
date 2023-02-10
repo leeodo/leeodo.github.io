@@ -2,15 +2,13 @@
 title: "About This Website"
 ---
 
-
 ## About Me
 
 ### Who am I?
-I am a master student at Georgetown University studying data science and analytics.
-I am also an graduate teaching assistant for the university's data science program.
-Specifically for the database course, I am responsible for help teaching students SQL and database design.
+
+I am a master student at Georgetown University studying data science and analytics. I am also an graduate teaching assistant for the university's data science program. Specifically for the database course, I am responsible for help teaching students SQL and database design.
 
 ### Education Background
 
-* **Master of Science in Data Science and Analytics** (Georgetown University, 2020 - Present)
-* **Bachelor of Science in Statistics** (University of California, Davis, 2016 - 2021)
+-   **Master of Science in Data Science and Analytics** (Georgetown University, 2020 - Present)
+-   **Bachelor of Science in Statistics** (University of California, Davis, 2016 - 2021)

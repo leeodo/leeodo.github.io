@@ -11,5 +11,5 @@ navbar:
       menu:
         - text: "DC Crime Visualization"
           href: sites/DC-Crime-Viz/index.html
-        - text: "Reddit Big Data-Ongoing"
-          href: sites/project_eda.html
+        - text: "Reddit Big Data"
+          href: sites/big-data/index.html
