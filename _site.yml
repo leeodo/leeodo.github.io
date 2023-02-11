@@ -13,3 +13,5 @@ navbar:
           href: sites/DC-Crime-Viz/index.html
         - text: "Reddit Big Data"
           href: sites/big-data/index.html
+    - text: "LinkedIn Profile"
+      href: https://www.linkedin.com/in/yannian-liu-000142142/
